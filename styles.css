@@ -1,0 +1,19 @@
+
+html, body {
+  height:100%;
+  /* Disable Scroll */
+  overflow:hidden;
+}
+
+div {
+  height: 100%;
+}
+body {
+  background-color: black;
+}
+h1 {
+  color: white;
+}
+p {
+  color: white;
+
